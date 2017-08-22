@@ -1,0 +1,92 @@
+> db.Dest.find().pretty();
+{
+        "_id" : ObjectId("598e6e2faff1ba024092e734"),
+        "DepartmentName" : "Headquarters",
+        "Manage_lastname" : "Borg",
+        "Department" : {
+                "location" : "Houston"
+        }
+}
+{
+        "_id" : ObjectId("598e6e2faff1ba024092e736"),
+        "DepartmentName" : "Administration",
+        "Manager_Lastname" : "Wallace",
+        "Department" : {
+                "location" : "Stafford"
+        }
+}
+{
+        "_id" : ObjectId("598e6e2faff1ba024092e738"),
+        "DepartmentName" : "Research",
+        "Manager_Lastname" : " Wong",
+        "Department" : {
+                "location" : "Bellaire"
+        },
+        " Department" : {
+                "location" : [
+                        "Sugarland",
+                        "Houston"
+                ]
+        }
+}
+{
+        "_id" : ObjectId("598e6e2faff1ba024092e73c"),
+        "DepartmentName" : "Software",
+        "Manager_Lastname" : "James",
+        "Department" : {
+                "location" : "Atlanta"
+        },
+        " Department" : {
+                "location" : [
+                        "Sacramento"
+                ]
+        }
+}
+{
+        "_id" : ObjectId("598e6e2faff1ba024092e73f"),
+        "DepartmentName" : "Hardware",
+        "Manager_Lastname" : "Freed",
+        "Department" : {
+                "location" : "Milwaukee"
+        }
+}
+{
+        "_id" : ObjectId("598e6e2faff1ba024092e741"),
+        "DepartmentName" : "Sales",
+        "Manager_Lastname" : "James",
+        "Department" : {
+                "location" : "Chicago"
+        },
+        " Department" : {
+                "location" : [
+                        "Dallas",
+                        "Philadephia",
+                        "Seattle",
+                        "Miami"
+                ]
+        }
+}
+{
+        "_id" : ObjectId("598e6e30aff1ba024092e747"),
+        "DepartmentName" : "HR",
+        "Manager_Lastname" : " Linda",
+        "Department" : {
+                "location" : "Arlington"
+        }
+}
+{
+        "_id" : ObjectId("598e6e30aff1ba024092e749"),
+        "DepartmentName" : "QA",
+        "Manager_Lastname" : "Kirkish",
+        "Department" : {
+                "location" : "Austin"
+        }
+}
+{
+        "_id" : ObjectId("598e6e30aff1ba024092e74b"),
+        "DepartmentName" : "Networking",
+        "Manager_Lastname" : "Gupta",
+        "Department" : {
+                "location" : "NULL"
+        }
+}

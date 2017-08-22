@@ -1,0 +1,16 @@
+Headquarters,Borg,Houston
+Administration,Wallace,Stafford
+Research, Wong,Bellaire
+Research,Wong,Sugarland
+Research,Wong,Houston
+Software,James,Atlanta
+Software,James,Sacramento
+Hardware,Freed,Milwaukee
+Sales,James,Chicago
+Sales,James,Dallas
+Sales,James,Philadephia
+Sales,James,Seattle
+Sales,James,Miami
+HR, Linda,Arlington
+QA,Kirkish,Austin
+Networking,Gupta,NULL

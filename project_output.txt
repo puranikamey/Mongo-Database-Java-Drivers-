@@ -1,0 +1,1258 @@
+> db.Project2.find().pretty();
+{
+        "_id" : ObjectId("598e66c8aff1ba0fd0794b18"),
+        "Pnumber" : {
+                "number" : "70"
+        },
+        "Pname" : "Advertizing",
+        "Department" : "Sales",
+        "Employee" : {
+                "Lastname" : {
+                        "Jones" : {
+                                "Firstname" : {
+                                        "Megan" : {
+                                                "Hours" : "40.0"
+                                        }
+                                }
+                        }
+                }
+        },
+        " Employee" : {
+                "Lastname" : [
+                        {
+                                "Lastname" : {
+                                        "Liang" : {
+                                                "Firstname" : {
+                                                        "Percy" : {
+                                                                "Hours" : "10.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Maxfield" : {
+                                                "Firstname" : {
+                                                        "Erin" : {
+                                                                "Hours" : "20.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Lewallen" : {
+                                                "Firstname" : {
+                                                        "Roy" : {
+                                                                "Hours" : "2.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
+                ]
+        }
+}
+{
+        "_id" : ObjectId("598e66c8aff1ba0fd0794b1d"),
+        "Pnumber" : {
+                "number" : "10"
+        },
+        "Pname" : "Computerization",
+        "Department" : "Software",
+        "Employee" : {
+                "Lastname" : {
+                        "Sheen" : {
+                                "Firstname" : {
+                                        "Jake" : {
+                                                "Hours" : "25.0"
+                                        }
+                                }
+                        }
+                }
+        },
+        " Employee" : {
+                "Lastname" : [
+                        {
+                                "Lastname" : {
+                                        "Lewallen" : {
+                                                "Firstname" : {
+                                                        "Roy" : {
+                                                                "Hours" : "4.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Zelaya" : {
+                                                "Firstname" : {
+                                                        "Alicia" : {
+                                                                "Hours" : "10.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Jabbar" : {
+                                                "Firstname" : {
+                                                        "Ahmad" : {
+                                                                "Hours" : "35.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Koelbel" : {
+                                                "Firstname" : {
+                                                        "Richard" : {
+                                                                "Hours" : "35.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Wong" : {
+                                                "Firstname" : {
+                                                        "Franklin" : {
+                                                                "Hours" : "10.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
+                ]
+        }
+}
+{
+        "_id" : ObjectId("598e66c8aff1ba0fd0794b24"),
+        "Pnumber" : {
+                "number" : "11"
+        },
+        "Pname" : "ConfigMgmt",
+        "Department" : "Software",
+        "Employee" : {
+                "Lastname" : {
+                        "Hall" : {
+                                "Firstname" : {
+                                        "Debra" : {
+                                                "Hours" : "20.0"
+                                        }
+                                }
+                        }
+                }
+        },
+        " Employee" : {
+                "Lastname" : [
+                        {
+                                "Lastname" : {
+                                        "Holmes" : {
+                                                "Firstname" : {
+                                                        "Wilson" : {
+                                                                "Hours" : "20.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
+                ]
+        }
+}
+{
+        "_id" : ObjectId("598e66c8aff1ba0fd0794b27"),
+        "Pnumber" : {
+                "number" : "62"
+        },
+        "Pname" : "DatabaseSystems",
+        "Department" : "Sales",
+        "Employee" : {
+                "Lastname" : {
+                        "Maxfield" : {
+                                "Firstname" : {
+                                        "Erin" : {
+                                                "Hours" : "20.0"
+                                        }
+                                }
+                        }
+                }
+        },
+        " Employee" : {
+                "Lastname" : [
+                        {
+                                "Lastname" : {
+                                        "Vos" : {
+                                                "Firstname" : {
+                                                        "Jenny" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Head" : {
+                                                "Firstname" : {
+                                                        "Arnold" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Carter" : {
+                                                "Firstname" : {
+                                                        "Chris" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Bacher" : {
+                                                "Firstname" : {
+                                                        "Red" : {
+                                                                "Hours" : "10.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Wallis" : {
+                                                "Firstname" : {
+                                                        "Evan" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Zell" : {
+                                                "Firstname" : {
+                                                        "Josh" : {
+                                                                "Hours" : "48.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Lewallen" : {
+                                                "Firstname" : {
+                                                        "Roy" : {
+                                                                "Hours" : "4.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Vile" : {
+                                                "Firstname" : {
+                                                        "Andy" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Ted" : {
+                                                "Firstname" : {
+                                                        "Kim" : {
+                                                                "Hours" : "25.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Brand" : {
+                                                "Firstname" : {
+                                                        "Tom" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
+                ]
+        }
+}
+{
+        "_id" : ObjectId("598e66c8aff1ba0fd0794b33"),
+        "Pnumber" : {
+                "number" : "13"
+        },
+        "Pname" : "DataMining",
+        "Department" : "Software",
+        "Employee" : {
+                "Lastname" : {
+                        "Yu" : {
+                                "Firstname" : {
+                                        "Alex" : {
+                                                "Hours" : "18.0"
+                                        }
+                                }
+                        }
+                }
+        }
+}
+{
+        "_id" : ObjectId("598e66c8aff1ba0fd0794b35"),
+        "Pnumber" : {
+                "number" : "4"
+        },
+        "Pname" : "EntityAnnot",
+        "Department" : "Research",
+        "Employee" : {
+                "Lastname" : {
+                        "Morgan" : {
+                                "Firstname" : {
+                                        "Michael" : {
+                                                "Hours" : "11.0"
+                                        }
+                                }
+                        }
+                }
+        },
+        " Employee" : {
+                "Lastname" : [
+                        {
+                                "Lastname" : {
+                                        "Holmes" : {
+                                                "Firstname" : {
+                                                        "Wilson" : {
+                                                                "Hours" : "5.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Thirteen" : {
+                                                "Firstname" : {
+                                                        "Cameron" : {
+                                                                "Hours" : "45.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
+                ]
+        }
+}
+{
+        "_id" : ObjectId("598e66c8aff1ba0fd0794b39"),
+        "Pnumber" : {
+                "number" : "95"
+        },
+        "Pname" : "Human1",
+        "Department" : "HR",
+        "Employee" : {
+                "Lastname" : {
+                        "Mary" : {
+                                "Firstname" : {
+                                        "willie" : {
+                                                "Hours" : "35.0"
+                                        }
+                                }
+                        }
+                }
+        },
+        " Employee" : {
+                "Lastname" : [
+                        {
+                                "Lastname" : {
+                                        "Lewallen" : {
+                                                "Firstname" : {
+                                                        "Roy" : {
+                                                                "Hours" : "3.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Cucuou" : {
+                                                "Firstname" : {
+                                                        "Sheldon" : {
+                                                                "Hours" : "23.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Linda" : {
+                                                "Firstname" : {
+                                                        "Juan" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
+                ]
+        }
+}
+{
+        "_id" : ObjectId("598e66c9aff1ba0fd0794b3e"),
+        "Pnumber" : {
+                "number" : "91"
+        },
+        "Pname" : "InkjetPrinters",
+        "Department" : "Sales",
+        "Employee" : {
+                "Lastname" : {
+                        "Lewallen" : {
+                                "Firstname" : {
+                                        "Roy" : {
+                                                "Hours" : "2.0"
+                                        }
+                                }
+                        }
+                }
+        },
+        " Employee" : {
+                "Lastname" : [
+                        {
+                                "Lastname" : {
+                                        "Jarvis" : {
+                                                "Firstname" : {
+                                                        "Jill" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Leslie" : {
+                                                "Firstname" : {
+                                                        "Lyle" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Freed" : {
+                                                "Firstname" : {
+                                                        "Alex" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "King" : {
+                                                "Firstname" : {
+                                                        "Billie" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Ed" : {
+                                                "Firstname" : {
+                                                        "John" : {
+                                                                "Hours" : "10.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Bays" : {
+                                                "Firstname" : {
+                                                        "Bonnie" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Best" : {
+                                                "Firstname" : {
+                                                        "Alec" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "King" : {
+                                                "Firstname" : {
+                                                        "Ray" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Snedden" : {
+                                                "Firstname" : {
+                                                        "Sam" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
+                ]
+        }
+}
+{
+        "_id" : ObjectId("598e66c9aff1ba0fd0794b49"),
+        "Pnumber" : {
+                "number" : "92"
+        },
+        "Pname" : "LaserPrinters",
+        "Department" : "Sales",
+        "Employee" : {
+                "Lastname" : {
+                        "James" : {
+                                "Firstname" : {
+                                        "John" : {
+                                                "Hours" : "40.0"
+                                        }
+                                }
+                        }
+                }
+        },
+        " Employee" : {
+                "Lastname" : [
+                        {
+                                "Lastname" : {
+                                        "Ball" : {
+                                                "Firstname" : {
+                                                        "Nandita" : {
+                                                                "Hours" : "44.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Lewallen" : {
+                                                "Firstname" : {
+                                                        "Roy" : {
+                                                                "Hours" : "1.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Kirkish" : {
+                                                "Firstname" : {
+                                                        "Joseph" : {
+                                                                "Hours" : "33.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Kramer" : {
+                                                "Firstname" : {
+                                                        "Jon" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
+                ]
+        }
+}
+{
+        "_id" : ObjectId("598e66c9aff1ba0fd0794b4f"),
+        "Pnumber" : {
+                "number" : "63"
+        },
+        "Pname" : "Middleware",
+        "Department" : "Software",
+        "Employee" : {
+                "Lastname" : {
+                        "Barbara" : {
+                                "Firstname" : {
+                                        "Jose" : {
+                                                "Hours" : "40.0"
+                                        }
+                                }
+                        }
+                }
+        },
+        " Employee" : {
+                "Lastname" : [
+                        {
+                                "Lastname" : {
+                                        "Grace" : {
+                                                "Firstname" : {
+                                                        "Kim" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Chase" : {
+                                                "Firstname" : {
+                                                        "Jeff" : {
+                                                                "Hours" : "46.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Bacher" : {
+                                                "Firstname" : {
+                                                        "Red" : {
+                                                                "Hours" : "10.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Bacher" : {
+                                                "Firstname" : {
+                                                        "Red" : {
+                                                                "Hours" : "10.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Joy" : {
+                                                "Firstname" : {
+                                                        "Jennifer" : {
+                                                                "Hours" : "20.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Pataki" : {
+                                                "Firstname" : {
+                                                        "Helga" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Lewallen" : {
+                                                "Firstname" : {
+                                                        "Roy" : {
+                                                                "Hours" : "4.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Burklow" : {
+                                                "Firstname" : {
+                                                        "Cindy" : {
+                                                                "Hours" : "25.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Laurie" : {
+                                                "Firstname" : {
+                                                        "Gregory" : {
+                                                                "Hours" : "25.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
+                ]
+        }
+}
+{
+        "_id" : ObjectId("598e66c9aff1ba0fd0794b5a"),
+        "Pnumber" : {
+                "number" : "29"
+        },
+        "Pname" : "MotherBoard",
+        "Department" : "Hardware",
+        "Employee" : {
+                "Lastname" : {
+                        "Moody" : {
+                                "Firstname" : {
+                                        "Leonard" : {
+                                                "Hours" : "15.0"
+                                        }
+                                }
+                        }
+                }
+        },
+        " Employee" : {
+                "Lastname" : [
+                        {
+                                "Lastname" : {
+                                        "House" : {
+                                                "Firstname" : {
+                                                        "Lisa" : {
+                                                                "Hours" : "10.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Miller" : {
+                                                "Firstname" : {
+                                                        "James" : {
+                                                                "Hours" : "15.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
+                ]
+        }
+}
+{
+        "_id" : ObjectId("598e66c9aff1ba0fd0794b5e"),
+        "Pnumber" : {
+                "number" : "30"
+        },
+        "Pname" : "Newbenefits",
+        "Department" : "Administration",
+        "Employee" : {
+                "Lastname" : {
+                        "Zelaya" : {
+                                "Firstname" : {
+                                        "Alicia" : {
+                                                "Hours" : "30.0"
+                                        }
+                                }
+                        }
+                }
+        },
+        " Employee" : {
+                "Lastname" : [
+                        {
+                                "Lastname" : {
+                                        "Smith" : {
+                                                "Firstname" : {
+                                                        "Johny" : {
+                                                                "Hours" : "25.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Lewallen" : {
+                                                "Firstname" : {
+                                                        "Roy" : {
+                                                                "Hours" : "4.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Jabbar" : {
+                                                "Firstname" : {
+                                                        "Ahmad" : {
+                                                                "Hours" : "5.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Wallace" : {
+                                                "Firstname" : {
+                                                        "Jennifer" : {
+                                                                "Hours" : "20.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
+                ]
+        }
+}
+{
+        "_id" : ObjectId("598e66c9aff1ba0fd0794b64"),
+        "Pnumber" : {
+                "number" : "61"
+        },
+        "Pname" : "OperatingSystem",
+        "Department" : "Software",
+        "Employee" : {
+                "Lastname" : {
+                        "James" : {
+                                "Firstname" : {
+                                        "Jared" : {
+                                                "Hours" : "40.0"
+                                        }
+                                }
+                        }
+                }
+        },
+        " Employee" : {
+                "Lastname" : [
+                        {
+                                "Lastname" : {
+                                        "Reedy" : {
+                                                "Firstname" : {
+                                                        "Carl" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Jones" : {
+                                                "Firstname" : {
+                                                        "Jon" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Hall" : {
+                                                "Firstname" : {
+                                                        "Sammy" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Mark" : {
+                                                "Firstname" : {
+                                                        "Justin" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Bacher" : {
+                                                "Firstname" : {
+                                                        "Red" : {
+                                                                "Hours" : "30.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Knight" : {
+                                                "Firstname" : {
+                                                        "Brad" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Lewallen" : {
+                                                "Firstname" : {
+                                                        "Roy" : {
+                                                                "Hours" : "4.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Small" : {
+                                                "Firstname" : {
+                                                        "Gerald" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Drew" : {
+                                                "Firstname" : {
+                                                        "Naveen" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Hisel" : {
+                                                "Firstname" : {
+                                                        "Christina" : {
+                                                                "Hours" : "4.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
+                ]
+        }
+}
+{
+        "_id" : ObjectId("598e66c9aff1ba0fd0794b70"),
+        "Pnumber" : {
+                "number" : "1"
+        },
+        "Pname" : "ProductX",
+        "Department" : "Headquarters",
+        "Employee" : {
+                "Lastname" : {
+                        "Carpenter" : {
+                                "Firstname" : {
+                                        "Jisha" : {
+                                                "Hours" : "25.0"
+                                        }
+                                }
+                        }
+                }
+        },
+        " Employee" : {
+                "Lastname" : [
+                        {
+                                "Lastname" : {
+                                        "English" : {
+                                                "Firstname" : {
+                                                        "Joyce" : {
+                                                                "Hours" : "20.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Lewallen" : {
+                                                "Firstname" : {
+                                                        "Roy" : {
+                                                                "Hours" : "2.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Smith" : {
+                                                "Firstname" : {
+                                                        "John" : {
+                                                                "Hours" : "32.5"
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
+                ]
+        }
+}
+{
+        "_id" : ObjectId("598e66caaff1ba0fd0794b75"),
+        "Pnumber" : {
+                "number" : "2"
+        },
+        "Pname" : "ProductY",
+        "Department" : "Research",
+        "Employee" : {
+                "Lastname" : {
+                        "English" : {
+                                "Firstname" : {
+                                        "Joyce" : {
+                                                "Hours" : "20.0"
+                                        }
+                                }
+                        }
+                }
+        },
+        " Employee" : {
+                "Lastname" : [
+                        {
+                                "Lastname" : {
+                                        "Wong" : {
+                                                "Firstname" : {
+                                                        "Franklin" : {
+                                                                "Hours" : "10.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Lewallen" : {
+                                                "Firstname" : {
+                                                        "Roy" : {
+                                                                "Hours" : "2.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Smith" : {
+                                                "Firstname" : {
+                                                        "John" : {
+                                                                "Hours" : "7.5"
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
+                ]
+        }
+}
+{
+        "_id" : ObjectId("598e66caaff1ba0fd0794b7a"),
+        "Pnumber" : {
+                "number" : "3"
+        },
+        "Pname" : "ProductZ",
+        "Department" : "Sales",
+        "Employee" : {
+                "Lastname" : {
+                        "Lewallen" : {
+                                "Firstname" : {
+                                        "Roy" : {
+                                                "Hours" : "4.0"
+                                        }
+                                }
+                        }
+                }
+        },
+        " Employee" : {
+                "Lastname" : [
+                        {
+                                "Lastname" : {
+                                        "Narayan" : {
+                                                "Firstname" : {
+                                                        "Ramesh" : {
+                                                                "Hours" : "40.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Smith" : {
+                                                "Firstname" : {
+                                                        "Johny" : {
+                                                                "Hours" : "10.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Wong" : {
+                                                "Firstname" : {
+                                                        "Franklin" : {
+                                                                "Hours" : "10.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Sondrini" : {
+                                                "Firstname" : {
+                                                        "Andrea" : {
+                                                                "Hours" : "45.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
+                ]
+        }
+}
+{
+        "_id" : ObjectId("598e66caaff1ba0fd0794b80"),
+        "Pnumber" : {
+                "number" : "20"
+        },
+        "Pname" : "Reorganization",
+        "Department" : "HR",
+        "Employee" : {
+                "Lastname" : {
+                        "Smith" : {
+                                "Firstname" : {
+                                        "Johny" : {
+                                                "Hours" : "10.0"
+                                        }
+                                }
+                        }
+                }
+        },
+        " Employee" : {
+                "Lastname" : [
+                        {
+                                "Lastname" : {
+                                        "Lewallen" : {
+                                                "Firstname" : {
+                                                        "Roy" : {
+                                                                "Hours" : "4.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Wong" : {
+                                                "Firstname" : {
+                                                        "Franklin" : {
+                                                                "Hours" : "10.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Wallace" : {
+                                                "Firstname" : {
+                                                        "Jennifer" : {
+                                                                "Hours" : "15.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        },
+                        {
+                                "Lastname" : {
+                                        "Borg" : {
+                                                "Firstname" : {
+                                                        "James" : {
+                                                                "Hours" : "5.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
+                ]
+        }
+}
+{
+        "_id" : ObjectId("598e66caaff1ba0fd0794b86"),
+        "Pnumber" : {
+                "number" : "22"
+        },
+        "Pname" : "SearchEngine",
+        "Department" : "Software",
+        "Employee" : {
+                "Lastname" : {
+                        "Geller" : {
+                                "Firstname" : {
+                                        "Zach" : {
+                                                "Hours" : "30.0"
+                                        }
+                                }
+                        }
+                }
+        },
+        " Employee" : {
+                "Lastname" : [
+                        {
+                                "Lastname" : {
+                                        "Wolowitz" : {
+                                                "Firstname" : {
+                                                        "Penny" : {
+                                                                "Hours" : "4.0"
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
+                ]
+        }
+}
